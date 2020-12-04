@@ -33,3 +33,4 @@ PASSWORD: 第一个账户密码,第二个账户密码
 ## 参考（及本文档）
 
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
+##十个Euserv VPS一起续期
